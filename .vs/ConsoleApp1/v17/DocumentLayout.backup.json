@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Work\\Projects\\C#\\POO C#\\SegundoProjetoPOO\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE683CF-83D8-4EED-AAF2-D10B054C0BDB}|ConsoleApp1\\ConsoleApp1.csproj|c:\\work\\projects\\c#\\poo c#\\segundoprojetopoo\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DE683CF-83D8-4EED-AAF2-D10B054C0BDB}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Work\\Projects\\C#\\POO C#\\SegundoProjetoPOO\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE683CF-83D8-4EED-AAF2-D10B054C0BDB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Produto.cs",
               "ToolTip": "C:\\Work\\Projects\\C#\\POO C#\\SegundoProjetoPOO\\ConsoleApp1\\ConsoleApp1\\Produto.cs",
               "RelativeToolTip": "ConsoleApp1\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T16:22:43.705Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Work\\Projects\\C#\\POO C#\\SegundoProjetoPOO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T16:20:25.074Z",
               "EditorCaption": ""

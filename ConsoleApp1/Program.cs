@@ -20,7 +20,20 @@ namespace ConsoleApp1
             Console.Write("Quantidade no estoque: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Dados do produto: " + p.Nome + ", $" + p.Preco);
+            Console.WriteLine();
+            Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+            Console.WriteLine("Digite o número de produtos a ser adicionado ao estoque: ");
+            int adc = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(adc);
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.WriteLine("Digite o numero de produtos a ser removido do estoque: ");
+            int rmv = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(rmv);
+            Console.WriteLine("Dados atualizados: " + p);
 
         }
     }

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace ConsoleApp1 {
     class Produto {
@@ -14,6 +11,28 @@ namespace ConsoleApp1 {
 
             return Preco * Quantidade;
         }
+
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
+
+        public void AdicionarProdutos(int quantidade) {
+            Quantidade += quantidade;
+        }
+
+        public override string ToString() {
+
+            return Nome
+                + ", $ "
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
+                + ", "
+                + Quantidade
+                + " unidades, TOTAL: $ "
+                + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+
+        }
+
 
     }
 }
